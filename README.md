@@ -1,0 +1,2 @@
+# Potencia_Tech_Angular_Developer_Powered_by_iFood
+Desafios e exercicios.
